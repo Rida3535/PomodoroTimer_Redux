@@ -27,23 +27,27 @@ A Redux-powered Pomodoro Timer app built with React. It helps you stay focused u
 > This project is **not yet deployed**. You can run it locally by following these steps:
 
 ### 1. Clone the Repository
-bash
+```bash
 git clone https://github.com/your-username/pomodoro-redux.git
 cd pomodoro-redux
+```
 
 ### 2. Install Dependencies
 
 Make sure you have Node.js installed. Then run:
-bash
+```bash
 npm install
+```
 
 ### 3. Start the Development Server
-bash
+```bash
 npm start
+```
+
 This will open the app in your browser at:
-
+```arduino
 http://localhost:3000
-
+```
 ---
 
 ## 🎯 Future Improvements
@@ -57,6 +61,9 @@ http://localhost:3000
 
 ## 📃 License
 
-MIT License
+This project is licensed under the MIT License.
+Feel free to use, modify, and distribute it for personal or commercial purposes.
 
-Built with React and Redux to support focus, productivity, and han
+---
+
+Built with React and Redux to support focus, productivity, and  hands-on learning of state management.
