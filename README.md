@@ -31,41 +31,39 @@ A Redux-powered Pomodoro Timer app built with React. It helps you stay focused u
 ```bash
 git clone https://github.com/your-username/pomodoro-redux.git
 cd pomodoro-redux
-2. Install Dependencies
+
+---
+
+### 2. Install Dependencies
 Make sure you have Node.js installed. Then run:
 
-bash
-Copy
-Edit
+```bash
 npm install
-3. Start the Development Server
-bash
-Copy
-Edit
+---
+
+### 3. Start the Development Server
+
+```bash
 npm start
-Open your browser and visit:
+---
 
-arduino
-Copy
-Edit
+### Open your browser and visit:
+
 http://localhost:3000
+---
 
-🎯 Future Improvements
-Add long break sessions after multiple cycles
+### 🎯 Future Improvements
 
-Sound alerts when sessions complete
+-Add long break sessions after multiple cycles
+-Sound alerts when sessions complete
+-Session history tracking
+---
 
-Session history tracking
-
-Deploy to Vercel/Netlify for public access
-
-📃 License
+### 📃 License
 MIT License
 
 Built with React and Redux to improve productivity and practice state management.
 
-vbnet
-Copy
-Edit
+
 
 Let me know if you'd like help writing a `CONTRIBUTING.md` or adding badges to the README.
