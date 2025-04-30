@@ -54,8 +54,7 @@ http://localhost:3000
 
 - Add long break sessions after multiple cycles  
 - Add sound alerts when sessions complete  
-- Add session history tracking  
-- Deploy to Vercel/Netlify for public access  
+- Add session history tracking   
 
 ---
 
